@@ -11,6 +11,7 @@ In the simulator there is no Music app (iTunes app) like a real device, so that'
 * SwiftUI
 * UIKit
 * MVVM
+* NSCache - caching images
 * Core Haptics
 * iTunes API
 
